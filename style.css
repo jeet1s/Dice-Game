@@ -1,0 +1,20 @@
+#body{
+    background-color: #F5EDDC;
+}
+
+.container{
+   margin-top: 10%;
+}
+#btn:hover{
+    background-color: #94B49F;
+}
+#btn{
+    padding:0px 40px;
+    border-radius: 20px;
+    background-color: #CEE5D0;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10%;
+}
